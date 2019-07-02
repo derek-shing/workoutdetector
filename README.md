@@ -9,5 +9,5 @@ https://github.com/derek-shing/openpose
 
 https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
 
-
+https://www.edureka.co/blog/tensorflow-object-detection-tutorial/
 
